@@ -1,5 +1,5 @@
 #!/bin/bash
-#script automatizado que instala los prerequisitos necesarios para VIVO 1.15 en Ubuntu 24.04.2 LTS, 
+#script automatizado que instala los prerequisitos necesarios para VIVO 1.15.x en Ubuntu 24.04.2 LTS, 
 #excepto Solr, vivocore y la creación de usuarios de base de datos.
 #También incluye validaciones simples al final de cada instalación e informe de resumen llamado 
 #informe_instalacion_vivo.txt al final del proceso
