@@ -16,7 +16,7 @@ Este script instala los prerrequisitos esenciales para ejecutar el sistema web V
 
 📦 Cómo usar este script
 Paso 1: Descargar el archivo 
-wget https://github.com/alberto-crosthwaite/ca-repo-cros/blob/main/instalar_prerequisitos_vivo_1.15x.bash
+wget https://github.com/alberto-crosthwaite/ca-repo-cros.git
 
 Paso 2: Dar permisos de ejecución 
 chmod +x instalar_prerequisitos_vivo.sh
